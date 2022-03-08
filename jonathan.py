@@ -1,1 +1,1 @@
-print("Hasta luego")
+print(" 1 2 3")
