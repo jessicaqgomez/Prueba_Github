@@ -1,1 +1,1 @@
-print("Hasta luego")
+print("Hasta lfkgsd")
